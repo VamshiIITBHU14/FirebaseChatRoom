@@ -1,0 +1,2 @@
+# FirebaseChatRoom
+This application shows how to build (in Swift4) a simple Chat room where users can register, login, send messages to other users etc using Firebase. If you are a developer who has got an interesting idea but could not find a backend developer to take the idea to a product level, then do check out this project as an introductory course to Firebase. Trust me, Firebase is the best when it comes to Backend As Service.
